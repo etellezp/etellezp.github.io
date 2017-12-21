@@ -73,5 +73,5 @@ It was by far the toughest project but it was also the project that I learn the 
 
 I think rails is fantastic and I can't wait to see what magic I can learn with javascript. 
 
-You can check my entire code in the following link [https://github.com/etellezp/ScubaRecords](http://)
+You can check my entire code in the following link https://github.com/etellezp/ScubaRecords
 you can contact me via slack at etellezp. 
