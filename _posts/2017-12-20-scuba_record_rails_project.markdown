@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scuba Record, Rails Project"
-date:       2017-12-21 04:42:19 +0000
+date:       2017-12-20 23:42:20 -0500
 permalink:  scuba_record_rails_project
 ---
 
@@ -73,6 +73,5 @@ It was by far the toughest project but it was also the project that I learn the 
 
 I think rails is fantastic and I can't wait to see what magic I can learn with javascript. 
 
-You can check my entire code in the following link [](https://github.com/etellezp/ScubaRecords)
-
+You can check my entire code in the following link [https://github.com/etellezp/ScubaRecords](http://)
 you can contact me via slack at etellezp. 
